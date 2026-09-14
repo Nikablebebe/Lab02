@@ -12,3 +12,4 @@ C:\Users\Вероника\Documents\Lab02-Monastyreva\obj\Debug\net10.0\refint\L
 C:\Users\Вероника\Documents\Lab02-Monastyreva\obj\Debug\net10.0\Lab02-Monastyreva.pdb
 C:\Users\Вероника\Documents\Lab02-Monastyreva\obj\Debug\net10.0\Lab02-Monastyreva.genruntimeconfig.cache
 C:\Users\Вероника\Documents\Lab02-Monastyreva\obj\Debug\net10.0\ref\Lab02-Monastyreva.dll
+C:\Users\Вероника\Documents\Lab02-Monastyreva\obj\Debug\net10.0\Lab02-Monastyreva.sourcelink.json
