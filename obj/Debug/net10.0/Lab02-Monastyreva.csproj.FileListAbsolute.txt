@@ -1,0 +1,14 @@
+C:\Users\Вероника\Documents\Lab02-Monastyreva\bin\Debug\net10.0\Lab02-Monastyreva.exe
+C:\Users\Вероника\Documents\Lab02-Monastyreva\bin\Debug\net10.0\Lab02-Monastyreva.deps.json
+C:\Users\Вероника\Documents\Lab02-Monastyreva\bin\Debug\net10.0\Lab02-Monastyreva.runtimeconfig.json
+C:\Users\Вероника\Documents\Lab02-Monastyreva\bin\Debug\net10.0\Lab02-Monastyreva.dll
+C:\Users\Вероника\Documents\Lab02-Monastyreva\bin\Debug\net10.0\Lab02-Monastyreva.pdb
+C:\Users\Вероника\Documents\Lab02-Monastyreva\obj\Debug\net10.0\Lab02-Monastyreva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вероника\Documents\Lab02-Monastyreva\obj\Debug\net10.0\Lab02-Monastyreva.AssemblyInfoInputs.cache
+C:\Users\Вероника\Documents\Lab02-Monastyreva\obj\Debug\net10.0\Lab02-Monastyreva.AssemblyInfo.cs
+C:\Users\Вероника\Documents\Lab02-Monastyreva\obj\Debug\net10.0\Lab02-Monastyreva.csproj.CoreCompileInputs.cache
+C:\Users\Вероника\Documents\Lab02-Monastyreva\obj\Debug\net10.0\Lab02-Monastyreva.dll
+C:\Users\Вероника\Documents\Lab02-Monastyreva\obj\Debug\net10.0\refint\Lab02-Monastyreva.dll
+C:\Users\Вероника\Documents\Lab02-Monastyreva\obj\Debug\net10.0\Lab02-Monastyreva.pdb
+C:\Users\Вероника\Documents\Lab02-Monastyreva\obj\Debug\net10.0\Lab02-Monastyreva.genruntimeconfig.cache
+C:\Users\Вероника\Documents\Lab02-Monastyreva\obj\Debug\net10.0\ref\Lab02-Monastyreva.dll
