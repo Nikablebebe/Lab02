@@ -130,3 +130,16 @@ double weight = double.Parse(Console.ReadLine());
 double bmi = weight / (height * height);
 
 Console.WriteLine($"ИМТ: {bmi:F2}");
+
+
+Console.WriteLine();
+Console.WriteLine("Инициалы");
+Console.Write("Введите фамилию: ");
+string surname = Console.ReadLine();
+
+Console.Write("Введите имя: ");
+string name = Console.ReadLine();
+
+char initial = name[0];
+
+Console.WriteLine($"{surname} {initial}.");
