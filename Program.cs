@@ -117,3 +117,16 @@ Console.WriteLine($"Средний балл: {averageGrade}");
 Console.WriteLine($"Балл >= 4.0: {isGoodGrade}");
 Console.WriteLine($"Любимая буква: {favoritelEtter}");
 
+
+Console.WriteLine();
+Console.WriteLine("ИМТ");
+
+Console.WriteLine("Напишите свой рост в метрах: ");
+double height = double.Parse(Console.ReadLine());
+
+Console.WriteLine("апишите свой вес в килограммах: ");
+double weight = double.Parse(Console.ReadLine());
+
+double bmi = weight / (height * height);
+
+Console.WriteLine($"ИМТ: {bmi:F2}");
